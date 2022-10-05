@@ -1,4 +1,8 @@
 khushi
 and hii its me khushi here
 and the thing is this that harshit is my team mate
+<<<<<<< HEAD
 I live in pahada and i love eating pani puri
+=======
+I live in pahada and i love eating pani puri
+>>>>>>> main
