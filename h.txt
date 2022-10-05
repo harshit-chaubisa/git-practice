@@ -1,2 +1,3 @@
 harshit
-hello its me harshit here 
+hello its me harshit here
+khushi is in my team and we both are currently working on the git commands
